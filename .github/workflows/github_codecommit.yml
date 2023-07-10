@@ -24,7 +24,7 @@ jobs:
           aws-region: us-east-1
 
       - name: Sync up to CodeCommit
-        uses: vebss123/Test123@main
+        uses: vebss123/Test1234@main
         with:
           repository_name: DemoGitRepo
           aws_region: us-east-1
