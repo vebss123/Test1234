@@ -26,5 +26,5 @@ jobs:
       - name: Sync up to CodeCommit
         uses: tsgit18/sync-up-to-codecommit-action@main
         with:
-          repository_name: test_repo
+          repository_name: DemoGitRepo
           aws_region: us-east-1
